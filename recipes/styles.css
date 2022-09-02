@@ -1,0 +1,23 @@
+.description {
+    font-size: 16px;
+    font-weight: 800;
+    font-family: Verdana, Helvetica, sans-serif;
+    color: rgb(75, 152, 152);
+}
+
+.list {
+    font-style: italic;
+    background-color: greenyellow;
+    font-family: Verdana, Helvetica, sans-serif;
+}
+
+#home-button {
+    background-color: aquamarine;
+}
+
+.list.ordered {
+    font-style: italic;
+    background-color: moccasin;
+    font-family: Verdana, Helvetica, sans-serif;
+}
+
